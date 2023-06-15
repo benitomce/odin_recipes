@@ -1,5 +1,9 @@
 public class eclipse{
-    public void main(){
-        System.out.printl("hola mundo");
+    public static void main(String[] args){
+
+        int edad = (int) 30.0;
+        System.out.println(edad);
+
+
     }
 }
